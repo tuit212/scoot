@@ -1,0 +1,25 @@
+.hero-section{
+    width: 100%;
+    background-image: url("../../img/hero-bg.png");
+    padding: 153px 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.hero__content{
+    width: 40%;
+}
+.hero__content-title{
+    font-weight: 700;
+    line-height: 56px;
+    font-size: 56px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+}
+.hero__content-text{
+    font-family: 'Lexend Deca' , sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin: 40px 0;
+}
